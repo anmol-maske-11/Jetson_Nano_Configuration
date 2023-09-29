@@ -1,1 +1,1 @@
-# Jetson_Nano_Configuration
+# Jetson Nano Configuration
