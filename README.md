@@ -26,5 +26,7 @@
 <br>6. Select APP partition size—it is recommended to use '0' or leave it blank.
 <br>
 
+<p>Congralutations a Desktop screen of NVIDIA will appear</p>
+
 
 
