@@ -12,13 +12,25 @@
 
 <p><h3>Create a bootable SD Card</h3></p>
 <br>1. Download Etcher, a program used for flashing OS images to SD cards. <a href="https://www.balena.io/etcher/">Click Here</a>
+
+<img src="https://github.com/anmol-maske-11/IMG_Videos/blob/main/install_nano.png">
+
 <br>2. Get the Jetson Nano image from the NVIDIA Developer website. It's a file around 6.5GB. <a href="https://developer.nvidia.com/jetson-nano-sd-card-image">Click Here to download the latest version</a>
+
 <br>3. Insert your SD Card and Open Etcher. Click "Select Image" and pick the Jetson Nano image you downloaded. Then click "Select Drive" and choose your SD Card. Finally, click "Flash" and wait.
+
+<img src="https://github.com/anmol-maske-11/IMG_Videos/blob/main/install_nano.png">
+<img src="https://github.com/anmol-maske-11/IMG_Videos/blob/main/install_nano.png">
+<img src="https://github.com/anmol-maske-11/IMG_Videos/blob/main/install_nano.png">
+
 <br>4. When it's done, you've successfully written the system image!
 <br>
 
 <p><h3>Now start the First Boot process</h3></p>
 <br>1. Connect HDMI display, USB Keyboard Mouse and Power Supply
+
+<img src="https://github.com/anmol-maske-11/IMG_Videos/blob/main/install_nano.png">
+
 <br>2. Now start the power supply and complete System Configuration
 <br>3. Review and accept NVIDIA Jetson software EULA
 <br>4. Select system language, keyboard layout, and time zone
